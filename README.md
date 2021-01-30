@@ -11,3 +11,7 @@ The philosophy of the Common Prayer project is to take the most essential conten
 # Roadmap
 
 - [ ] Digitize 1979 BCP daily office lectionary (_in progress_)
+
+# Contributing
+
+[Start a disccusion](https://github.com/CommonPrayer/CommonPrayer/discussions) if you're interested in helping contribute.
